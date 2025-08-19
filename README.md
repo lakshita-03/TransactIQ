@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="TransactIQ Banner" width="100%">
+  <img src=""C:\Users\lakshita rawat\Downloads\BANNER.PNG.png"" width="100%">
 </p>
 
 ## **TransactIQ: Forecasting India’s Journey Beyond Cash with UPI**
