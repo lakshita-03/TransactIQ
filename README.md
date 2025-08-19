@@ -1,10 +1,11 @@
 # TransactIQ: Forecasting India’s Journey Beyond Cash with UPI
+![Alt Text](https://images.app.goo.gl/ELTP6Y1w29mkL7Xp6)
 
 
 
 **TransactIQ** is a data-driven project analyzing and forecasting India’s transition to a cashless economy through UPI adoption. Using real data sets (NPCI, RBI, World Bank), we explore trends, patterns, and future predictions of digital payments in India. 
 
-**Objective-**  
+**Objectives-**  
 - Analyze UPI transaction growth in India.  
 - Compare UPI with traditional cash/card-based payments.  
 - Forecast future trends using ML models.  
