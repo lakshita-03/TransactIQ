@@ -1,9 +1,9 @@
 <p align="center">
-  <img src=""C:\Users\lakshita rawat\Downloads\BANNER.PNG.png"" width="100%">
+  <img src=""BANNER.PNG.png"" width="100%">
 </p>
 
 ## **TransactIQ: Forecasting India’s Journey Beyond Cash with UPI**
-'''![Banner](https://www.idfcfirstbank.com/content/dam/idfcfirstbank/images/blog/mobile-banking/cashless-transaction-717X404.jpg)'''
+<!---![Banner](https://www.idfcfirstbank.com/content/dam/idfcfirstbank/images/blog/mobile-banking/cashless-transaction-717X404.jpg)--->
 
 
 
