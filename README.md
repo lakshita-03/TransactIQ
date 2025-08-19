@@ -1,7 +1,10 @@
 ## **TransactIQ: Forecasting India’s Journey Beyond Cash with UPI**
 <!---![Banner](https://www.idfcfirstbank.com/content/dam/idfcfirstbank/images/blog/mobile-banking/cashless-transaction-717X404.jpg)--->
-<p align="center">
+<p align="left">
   <img src="BANNER.PNG.png" width="50%">
+</p>
+<p align="right">
+  <img src="p2.png" width="50%">
 </p>
 
 
