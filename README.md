@@ -1,5 +1,5 @@
 # TransactIQ: Forecasting India’s Journey Beyond Cash with UPI
-![Alt Text](https://images.app.goo.gl/ELTP6Y1w29mkL7Xp6)
+![Banner]("C:\Users\lakshita rawat\Downloads\BANNER.PNG.png")
 
 
 
