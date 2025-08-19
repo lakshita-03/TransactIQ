@@ -4,7 +4,7 @@
   <img src="BANNER.PNG.png", alt="banner"width="45%">
    <img src="https://bharatideology.com/wp-content/uploads/2023/08/UPI-scaled.jpg",alt="transaction", width="45%">
 
-**TransactIQ** is a data-driven project analyzing and forecasting India’s transition to a cashless economy through UPI adoption. Using real data sets (NPCI, RBI, World Bank), we explore trends, patterns, and future predictions of digital payments in India. 
+**TransactIQ** is a data-driven project analyzing and forecasting India’s transition to a cashless economy through UPI adoption. Using real data sets (NPCI, RBI, World Bank), exploring trends, patterns, and future predictions of digital payments in India. 
 
 **Objectives-**  
 - Analyze UPI transaction growth in India.  
