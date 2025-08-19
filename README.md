@@ -1,8 +1,8 @@
 ## **TransactIQ: Forecasting India’s Journey Beyond Cash with UPI**
 <!---![Banner](https://www.idfcfirstbank.com/content/dam/idfcfirstbank/images/blog/mobile-banking/cashless-transaction-717X404.jpg)--->
 <p align="centre">
-  <img src="BANNER.PNG.png" width="50%">
-   <img src="p2.png" width="50%">
+  <img src="BANNER.PNG.png" width="45%">
+   <img src="p2.png" width="45%">
 
 **TransactIQ** is a data-driven project analyzing and forecasting India’s transition to a cashless economy through UPI adoption. Using real data sets (NPCI, RBI, World Bank), we explore trends, patterns, and future predictions of digital payments in India. 
 
