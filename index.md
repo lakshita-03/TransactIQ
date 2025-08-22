@@ -5,7 +5,7 @@
    
 **TransactIQ** is a data-driven project analyzing and forecasting India’s transition to a cashless economy through UPI adoption. Using real data sets (NPCI, RBI, World Bank), exploring trends, patterns, and future predictions of digital payments in India. 
 
-## **Table of Contents **
+## Table of Contents 
   1. Project Overview
   2. Data Sources
   3. Data Collection & Merging
