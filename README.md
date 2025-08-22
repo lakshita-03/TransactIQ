@@ -24,3 +24,5 @@
 3. Forecast future trends using ML models.  
 4. Visualize adoption patterns across industries and demographics.
 
+## 2. Data Sources
+
