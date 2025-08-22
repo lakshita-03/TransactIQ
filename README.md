@@ -1,6 +1,6 @@
 # **TransactIQ: Forecasting India’s Journey Beyond Cash with UPI**
 
-  <img src="BANNER.PNG.png" alt="banner" width="45%"><img src="https://bharatideology.com/wp-content/uploads/2023/08/UPI-scaled.jpg" alt="transaction" width="45%">
+  <img src="BANNER.PNG.png" alt="banner" width="45%"> <img src="https://bharatideology.com/wp-content/uploads/2023/08/UPI-scaled.jpg" alt="transaction" width="45%">
   
    
 
