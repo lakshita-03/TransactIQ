@@ -1,5 +1,5 @@
 # **TransactIQ: Forecasting India’s Journey Beyond Cash with UPI**
-<!---![Banner](https://www.idfcfirstbank.com/content/dam/idfcfirstbank/images/blog/mobile-banking/cashless-transaction-717X404.jpg)--->
+
 <p align="centre">
   <img src="BANNER.PNG.png", alt="banner"width="45%">
    <img src="https://bharatideology.com/wp-content/uploads/2023/08/UPI-scaled.jpg",alt="transaction", width="45%">
@@ -36,7 +36,7 @@ For this project, data from **2016 to 2025** has been compiled by consolidating 
 ## 3. Data Collection & Merging
 The monthly UPI statistics from **April 2016 to March 2025** were collected from the official NPCI website and merged into a single dataset. The merging and processing were carried out in Python using libraries such as **pandas** (for data manipulation and merging), **openpyxl** (for handling Excel files), and **glob**(for retrieving file paths and iterating through multiple Excel files).
 
-[Jupyter File]("C:\Users\lakshita rawat\Downloads\Jupyter_files\Merged_excel_files.ipynb")
+[Jupyter File] ("notebooks/merged_excel_files.ipynb")
 Merged Excel File-
 
 
