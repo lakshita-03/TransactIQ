@@ -19,8 +19,8 @@
 
 ## **1. Project Overview**
 - ### **Objectives-**  
-- Analyze UPI transaction growth in India.  
-- Compare UPI with traditional cash/card-based payments.  
-- Forecast future trends using ML models.  
-- Visualize adoption patterns across industries and demographics.
+1. Analyze UPI transaction growth in India.  
+2. Compare UPI with traditional cash/card-based payments.  
+3. Forecast future trends using ML models.  
+4. Visualize adoption patterns across industries and demographics.
 
