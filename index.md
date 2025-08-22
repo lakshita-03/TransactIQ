@@ -18,10 +18,10 @@
 
 ## **1. Project Overview**
 - ### **Objectives-**  
-1. Analyze UPI transaction growth in India.  
-2. Compare UPI with traditional cash/card-based payments.  
-3. Forecast future trends using ML models.  
-4. Visualize adoption patterns across industries and demographics.
+- 1. Analyze UPI transaction growth in India.  
+- 2. Compare UPI with traditional cash/card-based payments.  
+- 3. Forecast future trends using ML models.  
+- 4. Visualize adoption patterns across industries and demographics.
 
 ## 2. Data Sources
 The dataset for this project was obtained from the official **NPCI (National Payments Corporation of India) UPI Statistics Portal** (https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics). NPCI provides monthly transaction reports starting from 2016 onwards, which include:
