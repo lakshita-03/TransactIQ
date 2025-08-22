@@ -26,10 +26,10 @@
 
 ## 2. Data Sources
 The dataset for this project was obtained from the official **NPCI (National Payments Corporation of India) UPI Statistics Portal**. NPCI provides monthly transaction reports starting from 2016 onwards, which include:
--Number of Banks live on UPI (monthly count of banks adopting UPI).
--Volume of UPI transactions (in millions) –The number of transactions done through UPI (count).
--Value of UPI transactions (in crores) – The total money involved in the transactions.
--Granularity: Month-wise breakdown across all years, which also allows for aggregated year-wise analysis.
+- Number of Banks live on UPI (monthly count of banks adopting UPI).
+- Volume of UPI transactions (in millions) –The number of transactions done through UPI (count).
+- Value of UPI transactions (in crores) – The total money involved in the transactions.
+- Granularity: Month-wise breakdown across all years, which also allows for aggregated year-wise analysis.
 
 For this project, data from 2016 to 2025 has been compiled by consolidating the annual Excel files available on the NPCI website into a single structured dataset. This ensures accuracy, transparency, and completeness of information for analysis.
 
