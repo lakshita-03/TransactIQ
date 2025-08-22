@@ -17,7 +17,7 @@
   9. Conclusion & Future Work
 
 ## **1. Project Overview**
-- ### **Objectives-**  
+- ### **Objectives-**
 1. Analyze UPI transaction growth in India.
 2. Compare UPI with traditional cash/card-based payments.
 3. Forecast future trends using ML models.
