@@ -11,3 +11,16 @@
 - Compare UPI with traditional cash/card-based payments.  
 - Forecast future trends using ML models.  
 - Visualize adoption patterns across industries and demographics.
+
+## **Table of Contents-**
+  1. Project Overview
+  2. Data Sources
+  3. Data Collection & Merging
+  4. Data Cleaning & Preprocessing
+  5. Exploratory Data Analysis (EDA)
+  6. Visualization & Dashboards
+  7. Machine Learning & Forecasting (optional)
+  8. Insights & Key Findings
+  9. Conclusion & Future Work
+
+## **1. Data Collection **
