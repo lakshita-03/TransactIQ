@@ -51,14 +51,12 @@ The dataset was cleaned and prepared using Power Query, as it provided an effici
 ## **Raw Data (Before Cleaning)**  
 
 <img src="pictures/before.png" alt="banner" width="100%">
-
- 
+ <br>
  
 ## **Cleaned Data (After Processing)**  
- 
+
  <img src="pictures/after.png" alt="banner" width="90%"> 
-<br><br>
- 
+  <br><br>
  <img src="pictures/result.png" alt="banner" width="90%">                            
 
                                       
