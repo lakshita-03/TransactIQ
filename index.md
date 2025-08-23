@@ -56,7 +56,9 @@ The dataset was cleaned and prepared using Power Query, as it provided an effici
  
 ## **Cleaned Data (After Processing)**  
  
- <img src="pictures/after.png" alt="banner" width="90%">           
+ <img src="pictures/after.png" alt="banner" width="90%"> 
+ 
+ -----------------------------------------------------------
  
  <img src="pictures/result.png" alt="banner" width="90%">                            
 
