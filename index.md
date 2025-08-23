@@ -39,7 +39,7 @@ The monthly UPI statistics from **April 2016 to March 2025** were collected from
 <iframe src="notebooks/Merged_excel_files.html" width="100%" height="800px"></iframe> 
 
 ### **Merged Excel File** 
-[_File_](https://github.com/lakshita-03/TransactIQ/blob/main/data/npci_upi_stats.csv)
+[File_](https://github.com/lakshita-03/TransactIQ/blob/main/data/npci_upi_stats.csv)
 
 ### 4. Data Processing and Cleaning
 The dataset was cleaned and prepared using Power Query, as it provided an efficient and user-friendly approach for managing the available data. Several preprocessing steps were carried out to ensure data quality and consistency:
@@ -47,6 +47,8 @@ The dataset was cleaned and prepared using Power Query, as it provided an effici
 - Conversion of data types to appropriate formats, such as dates and numeric values.
 - Sorting of data to maintain a proper chronological sequence.
 - Elimination of duplicates and extra values to avoid redundancy.
+  
+  [Processed File](https://github.com/lakshita-03/TransactIQ/blob/main/data/cleaned_procressed_file.csv)
   
 ## **Raw Data (Before Cleaning)**  
 
