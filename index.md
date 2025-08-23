@@ -48,9 +48,15 @@ The dataset was cleaned and prepared using Power Query, as it provided an effici
 - Sorting of data to maintain a proper chronological sequence.
 - Elimination of duplicates and extra values to avoid redundancy.
   
- **Raw Data (Before Cleaning)**  <img src="pictures/before.png" alt="banner" width="90%">
+## **Raw Data (Before Cleaning)**  
+
+<img src="pictures/before.png" alt="banner" width="100%">
+
  
- **Cleaned Data (After Processing)**  <img src="pictures/after.png" alt="banner" width="90%">    <img src="pictures/result.png" alt="banner" width="90%">                            
+ 
+ **Cleaned Data (After Processing)**  
+ 
+ <img src="pictures/after.png" alt="banner" width="90%">            <img src="pictures/result.png" alt="banner" width="90%">                            
 
                                       
 
