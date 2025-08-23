@@ -47,7 +47,7 @@ Data Cleaning and processing are essential steps to ensure the dataset is accura
 - Missing or incomplete values
 - Irregular formatting
 - Duplicate or redundant entries
-To address these issues, the dataset was cleaned using **Python (pandas library)**. The process included removing irrelevant columns, handling missing values, standardizing column names, correcting data types, and ensuring that all values were properly aligned.
+To address these issues, the dataset was cleaned using **Python (pandas library)**. The process included removing irrelevant columns, handling missing values, standardizing column names, correcting data types, and ensuring that all values were properly aligned. 
 
 
 
