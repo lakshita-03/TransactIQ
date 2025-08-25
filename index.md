@@ -10,7 +10,7 @@
   2. Data Sources
   3. Data Collection & Merging
   4. Data Cleaning & Preprocessing
-  5. Exploratory Data Analysis (EDA)
+  5. Exploratory Data Analysis (EDA)           **(EDIT KARNA HAI ABHIIIII)**
   6. Visualization & Dashboards
   7. Machine Learning & Forecasting (optional)
   8. Insights & Key Findings
@@ -24,12 +24,7 @@
 4. Visualize adoption patterns across industries and demographics.
 
 ## 2. Data Sources
-The dataset for this project was obtained from the official **NPCI (National Payments Corporation of India) UPI Statistics Portal** (https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics). NPCI provides monthly transaction reports starting from 2016 onwards, which include:
-- Number of Banks live on UPI (monthly count of banks adopting UPI).
-- Volume of UPI transactions (in millions) –The number of transactions done through UPI (count).
-- Value of UPI transactions (in crores) – The total money involved in the transactions.
-- Granularity: Month-wise breakdown across all years, which also allows for aggregated year-wise analysis.
-
+The dataset for this project was obtained from the official **NPCI (National Payments Corporation of India) UPI Statistics Portal** (https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics). It is an umbrella organization that operates retail and settlement payment systems in India, including UPI, RuPay, FASTag, and other payment systems.
 For this project, data from **2016 to 2025** has been compiled by consolidating the annual Excel files available on the NPCI website into a single, structured dataset. This ensures accuracy, transparency, and completeness of information for analysis.
 
 ## 3. Data Collection & Merging
@@ -58,8 +53,15 @@ The dataset was cleaned and prepared using **Power Query**, as it provided an ef
 
  <img src="pictures/after.png" alt="banner" width="90%"> 
   <br><br>
- <img src="pictures/result.png" alt="banner" width="90%">                            
+ <img src="pictures/result.png" alt="banner" width="90%"> 
 
-                                      
+ ## 5. Exploratory Data Analysis(EDA)
+Exploratory Data Analysis (EDA) was carried out to understand the structure, patterns, and key insights from the dataset. The objective of this stage was to examine trends, detect anomalies, and establish relationships between variables before moving towards deeper interpretation.
+
+-**Dataset Overview**
+- Number of Banks live on UPI (monthly count of banks adopting UPI).
+- Volume of UPI transactions (in millions) –The number of transactions done through UPI (count).
+- Value of UPI transactions (in crores) – The total money involved in the transactions.
+- Granularity: Month-wise breakdown across all years, which also allows for aggregated year-wise analysis.                                     
 
 
