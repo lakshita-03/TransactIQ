@@ -53,7 +53,7 @@ The dataset was cleaned and prepared using **Power Query**, as it provided an ef
 
  <img src="pictures/after.png" alt="banner" width="90%"> 
 <br><br>
- <img src="pictures/result2.png" alt="banner" width="90%"> 
+ <img src="pictures/result 2.png" alt="banner" width="90%"> 
 <br>
 
  ## 5. Exploratory Data Analysis(EDA)
