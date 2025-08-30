@@ -67,3 +67,12 @@ Exploratory Data Analysis (EDA) was carried out to understand the structure, pat
                                       
 
 
+**Key Insights from the EDA on UPI Transactions**
+
+Strong Growth in Adoption – UPI transactions have shown exponential growth from 2016 onwards, clearly reflecting rapid adoption across India.
+Seasonality & Peaks – Certain months (especially around festive seasons and year-end) witness higher transaction counts, showing consumer-driven seasonal effects.
+Impact of COVID-19 – During 2020–2021, digital payments accelerated as cash usage declined, boosting UPI adoption significantly.
+Bank Participation – The number of banks going live on UPI increased year by year, contributing to wider accessibility and usage.
+Yearly Trend – Each year records a higher total transaction volume compared to the previous, confirming UPI adoption is consistently increasing.
+Correlation Analysis – Strong positive correlation between the number of live banks, transaction count, and transaction value, indicating that wider bank integration directly boosts UPI adoption.
+
