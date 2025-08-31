@@ -58,7 +58,7 @@ The dataset was cleaned and prepared using **Power Query**, as it provided an ef
 <br><br>
 
 
- ## 5. **Exploratory Data Analysis(EDA)**
+ ## 5.Exploratory Data Analysis(EDA)
 Exploratory Data Analysis (EDA) was carried out to understand the structure, patterns, and key insights from the dataset. The objective of this stage was to examine trends, detect anomalies, and establish relationships between variables before proceeding to a deeper interpretation.
 
 ### 1. **Dataset Overview**
