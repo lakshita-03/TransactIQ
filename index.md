@@ -65,7 +65,7 @@ Exploratory Data Analysis (EDA) was carried out to understand the structure, pat
 - Granularity: Month-wise breakdown across all years, which also allows for aggregated year-wise analysis.
 
 ### _EDA on UPI Adoption and Comparative Analysis with Cash and Card Payments_
-<iframe src="notebooks/EDA.html" width="100%" height="800px"></iframe>                                
+<iframe src="notebooks/EDA.html" width="100%" height="800px"></iframe>                             
 <br>
 **Key Insights from the EDA on UPI Transactions**
 
