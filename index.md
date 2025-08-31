@@ -57,13 +57,15 @@ The dataset was cleaned and prepared using **Power Query**, as it provided an ef
 
  ## 5. Exploratory Data Analysis(EDA)
 Exploratory Data Analysis (EDA) was carried out to understand the structure, patterns, and key insights from the dataset. The objective of this stage was to examine trends, detect anomalies, and establish relationships between variables before proceeding to a deeper interpretation.
+
 ### 1. **Dataset Overview**
 - Number of Banks live on UPI (monthly count of banks adopting UPI).
-- Volume of UPI transactions (in crores) –The number of transactions done through UPI (count).
-- Value of UPI transactions (in crores) – The total money involved in the transactions.
+- Count of UPI transactions (In Mn) –The number of transactions done through UPI (**Volume**)
+- Total Amount of UPI transactions (In Mn) – The total money involved in the transactions (**Value**)
 - Granularity: Month-wise breakdown across all years, which also allows for aggregated year-wise analysis.
 
-                                      
+### _EDA on UPI Adoption and Comparative Analysis with Cash and Card Payments_
+<iframe src="notebooks/EDA.html" width="100%" height="800px"></iframe>                                
 
 
 **Key Insights from the EDA on UPI Transactions**
