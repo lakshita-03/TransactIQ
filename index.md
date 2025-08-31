@@ -57,7 +57,7 @@ The dataset was cleaned and prepared using **Power Query**, as it provided an ef
  <img src="pictures/correct_result.png" alt="banner" width="90%"> 
 <br>
 
- ## 5. Exploratory Data Analysis(EDA)
+ ## 5.**Exploratory Data Analysis(EDA)**
 Exploratory Data Analysis (EDA) was carried out to understand the structure, patterns, and key insights from the dataset. The objective of this stage was to examine trends, detect anomalies, and establish relationships between variables before proceeding to a deeper interpretation.
 
 ### 1. **Dataset Overview**
@@ -90,6 +90,7 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 - Cash Payments-Value(Crores)- Total amount of Cash Payments
   
 [**Unprocessed Data**](https://github.com/lakshita-03/TransactIQ/blob/main/data/rbi_old.csv)
+
 [**Processed Data**](https://github.com/lakshita-03/TransactIQ/blob/main/data/rbi_processed_2.csv)
   
 **Jupyter File**
