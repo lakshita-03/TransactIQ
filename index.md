@@ -94,7 +94,7 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 
 [**Processed Data**](https://github.com/lakshita-03/TransactIQ/blob/main/data/rbi_processed_2.csv)
   
-**Jupyter File**
+### **Jupyter File**
 <iframe src="notebooks/EDA_2.html" width="100%" height="800px"></iframe> 
 <br><br>
 
