@@ -51,7 +51,7 @@ The dataset was cleaned and prepared using **Power Query**, as it provided an ef
  <br>
  
 ## **Cleaned Data (After Processing)**  
-
+ 
  <img src="pictures/after.png" alt="banner" width="90%"> 
 <br><br>
  <img src="pictures/correct_result.png" alt="banner" width="90%"> 
