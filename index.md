@@ -76,3 +76,5 @@ Bank Participation – The number of banks going live on UPI increased year by y
 Yearly Trend – Each year records a higher total transaction volume compared to the previous, confirming UPI adoption is consistently increasing.
 Correlation Analysis – Strong positive correlation between the number of live banks, transaction count, and transaction value, indicating that wider bank integration directly boosts UPI adoption.
 
+RBI LINK https://data.rbi.org.in/BOE/OpenDocument/2409211437/OpenDocument/opendoc/openDocument.jsp?logonSuccessful=true&shareId=0
+
