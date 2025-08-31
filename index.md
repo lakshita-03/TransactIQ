@@ -66,8 +66,7 @@ Exploratory Data Analysis (EDA) was carried out to understand the structure, pat
 
 ### _EDA on UPI Adoption and Comparative Analysis with Cash and Card Payments_
 <iframe src="notebooks/EDA.html" width="100%" height="800px"></iframe>                                
-
-
+<br>
 **Key Insights from the EDA on UPI Transactions**
 
 Strong Growth in Adoption – UPI transactions have shown exponential growth from 2016 onwards, clearly reflecting rapid adoption across India.
