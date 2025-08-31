@@ -26,7 +26,7 @@
 - Drawing insights and conclusions on the shift towards digital payments
   
 ## 2. Data Sources
-The dataset for this project was obtained from the official **NPCI (National Payments Corporation of India) UPI Statistics Portal** (https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics). It is an umbrella organization that operates retail and settlement payment systems in India, including UPI, RuPay, FASTag, and other payment systems.
+The dataset for this project was obtained from the official **NPCI (National Payments Corporation of India) UPI Statistics Portal** [Website](https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics). It is an umbrella organization that operates retail and settlement payment systems in India, including UPI, RuPay, FASTag, and other payment systems.
 For this project, data from **April 2016 to April 2025** has been compiled by consolidating the annual Excel files available on the NPCI website into a single, structured dataset. This ensures accuracy, transparency, and completeness of information for analysis.
 
 ## 3. Data Collection & Merging
@@ -79,7 +79,7 @@ Exploratory Data Analysis (EDA) was carried out to understand the structure, pat
 - **Correlation Analysis** – Strong positive correlation between the number of live banks, transaction count, and transaction value, indicating that wider bank integration  directly boosts UPI adoption.
 
 ### _Exploring UPI, Card, and Cash Payment Trends_
-The dataset for this section has been extracted from the **Reserve Bank of India’s (RBI) Database on Indian Economy (DBIE)** under the **Payment and Settlement Systems section** (https://bit.ly/45Pf2iU). It provides monthly and yearly statistics on transaction volumes and values across different modes of payment, UPI, Card, and Cash, covering the period **November 2019 to June 2025**. Data cleaning and preparation were carried out in **Power Query**, which ensured both efficiency and simplicity in managing the dataset.
+The dataset for this section has been extracted from the **Reserve Bank of India’s (RBI) Database on Indian Economy (DBIE)** under the **Payment and Settlement Systems section** [Website](https://bit.ly/45Pf2iU). It provides monthly and yearly statistics on transaction volumes and values across different modes of payment, UPI, Card, and Cash, covering the period **November 2019 to June 2025**. Data cleaning and preparation were carried out in **Power Query**, which ensured both efficiency and simplicity in managing the dataset.
 
 ## **Dataset Overview**
 - UPI Transactions-Volume(Lakh)- Total count of UPI transactions
