@@ -10,7 +10,7 @@
   2. Data Sources
   3. Data Collection & Merging
   4. Data Cleaning & Preprocessing
-  5. Exploratory Data Analysis (EDA)           **(EDIT KARNA HAI ABHIIIII)**
+  5. Exploratory Data Analysis (EDA)           **(EDIT KARNA HAI ABHIIIII)** 
   6. Visualization & Dashboards
   7. Machine Learning & Forecasting (optional)
   8. Insights & Key Findings
