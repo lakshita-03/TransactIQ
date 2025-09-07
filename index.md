@@ -5,18 +5,17 @@
    
 **TransactIQ** is a data-driven project analyzing and forecasting India’s transition to a cashless economy through UPI adoption. Using real data sets (NPCI, RBI, World Bank), exploring trends, patterns, and future predictions of digital payments in India. 
 
-**Unified Payments Interface (UPI)** is a system that enables multiple bank accounts to be linked to a single mobile app, allowing for easy fund transfers, merchant payments, and peer-to-peer transactions. It was launched as a pilot by NPCI with 21 member banks on 11th April 2016 in Mumbai, inaugurated by Dr. Raghuram G. Rajan, then RBI Governor. Soon after, banks started releasing UPI-enabled apps on the Google Play Store.
+**Unified Payments Interface (UPI)** is a system that enables multiple bank accounts to be linked to a single mobile app, allowing for easy fund transfers, merchant payments, and peer-to-peer transactions. It was launched as a pilot by NPCI with **21 member banks on 11th April 2016 in Mumbai**, inaugurated by **Dr. Raghuram G. Rajan**, then RBI Governor. Soon after, banks started releasing UPI-enabled apps on the Google Play Store.
 
 ## Table of Contents 
   1. Project Overview 
   2. Data Sources
   3. Data Collection & Merging
   4. Data Cleaning & Preprocessing
-  5. Exploratory Data Analysis (EDA)           **(EDIT KARNA HAI ABHIIIII)** 
+  5. Exploratory Data Analysis (EDA)           
   6. Visualization & Dashboards
-  7. Machine Learning & Forecasting (optional)
-  8. Insights & Key Findings
-  9. Conclusion & Future Work
+  7. Forecasting using Time Series Model
+  8. Conclusion
 
 ## **1. Project Overview**
 - ### **Objectives**
@@ -111,14 +110,14 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 ### Jupyter File
 <iframe src="notebooks/ARIMA.html" width="100%" height="800px"></iframe>
 
-## 8.Conclusion
-**Exponential Growth (2016–2025)** – UPI began on a small scale in 2016 but expanded exponentially, especially after 2018 with the push for digital adoption.
+## 8. Conclusion
+- **Exponential Growth (2016–2025)** – UPI began on a small scale in 2016 but expanded exponentially, especially after 2018 with the push for digital adoption.
 Shift from Cash to Digital – Cash and card payments are being overshadowed by UPI, which emerged as India’s default mode of digital payments, accelerated by COVID-19.
-**Seasonality & Events** – Spikes in UPI transactions align with festive periods (Diwali, year-end, March financial close), while dips reflect disruptions such as the 2020 lockdown.
-**Forecasting Trends** – Forecasts (Prophet & ARIMA) suggest sustained growth till 2025, with recurring seasonal peaks and minor early-year dips.
-**Business & Policy Impact** – Banks, fintechs, and merchants must gear up for rising volumes and align strategies with festive spikes. Policymakers can showcase UPI as a global digital payments model.
-**Cashless Limitation** – Despite UPI’s dominance, a fully cashless India is not yet possible. In rural and underdeveloped areas, where digital infrastructure and literacy remain limited, cash continues to play a vital role.
-**Final Takeaway**– UPI has revolutionized India’s digital economy, becoming the backbone of cashless transactions, while coexisting with cash in regions where digital reach is still evolving.
+- **Seasonality & Events** – Spikes in UPI transactions align with festive periods (Diwali, year-end, March financial close), while dips reflect disruptions such as the 2020 lockdown.
+- **Forecasting Trends** – Forecasts (Prophet & ARIMA) suggest sustained growth till 2025, with recurring seasonal peaks and minor early-year dips.
+- **Business & Policy Impact** – Banks, fintechs, and merchants must gear up for rising volumes and align strategies with festive spikes. Policymakers can showcase UPI as a global digital payments model.
+- **Cashless Limitation** – Despite UPI’s dominance, a fully cashless India is not yet possible. In rural and underdeveloped areas, where digital infrastructure and literacy remain limited, cash continues to play a vital role.
+- **Final Takeaway**– UPI has revolutionized India’s digital economy, becoming the backbone of cashless transactions, while coexisting with cash in regions where digital reach is still evolving.
 
 
   
