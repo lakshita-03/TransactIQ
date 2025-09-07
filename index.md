@@ -106,10 +106,19 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 
 **POWER BI**
 
-## 7.Forecasting using Time Series Models (ARIMA)
+## 7. Forecasting using Time Series Models (ARIMA)
 
 ### Jupyter File
 <iframe src="notebooks/ARIMA.html" width="100%" height="800px"></iframe>
+
+## 8.Conclusion
+**Exponential Growth (2016–2025)** – UPI began on a small scale in 2016 but expanded exponentially, especially after 2018 with the push for digital adoption.
+Shift from Cash to Digital – Cash and card payments are being overshadowed by UPI, which emerged as India’s default mode of digital payments, accelerated by COVID-19.
+**Seasonality & Events** – Spikes in UPI transactions align with festive periods (Diwali, year-end, March financial close), while dips reflect disruptions such as the 2020 lockdown.
+**Forecasting Trends** – Forecasts (Prophet & ARIMA) suggest sustained growth till 2025, with recurring seasonal peaks and minor early-year dips.
+**Business & Policy Impact** – Banks, fintechs, and merchants must gear up for rising volumes and align strategies with festive spikes. Policymakers can showcase UPI as a global digital payments model.
+**Cashless Limitation** – Despite UPI’s dominance, a fully cashless India is not yet possible. In rural and underdeveloped areas, where digital infrastructure and literacy remain limited, cash continues to play a vital role.
+**Final Takeaway**– UPI has revolutionized India’s digital economy, becoming the backbone of cashless transactions, while coexisting with cash in regions where digital reach is still evolving.
 
 
   
