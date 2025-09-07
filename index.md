@@ -67,7 +67,7 @@ Exploratory Data Analysis (EDA) was carried out to understand the structure, pat
 - Total Amount of UPI transactions (In Mn) – The total money involved in the transactions (**Value**)
 - Granularity: Month-wise breakdown across all years, which also allows for aggregated year-wise analysis
 
-### _EDA on UPI Adoption and Comparative Analysis with Cash and Card Payments_
+## _EDA on UPI Adoption and Comparative Analysis with Cash and Card Payments_
 <iframe src="notebooks/EDA.html" width="100%" height="800px"></iframe>    
 <br><br>
 
@@ -79,7 +79,7 @@ Exploratory Data Analysis (EDA) was carried out to understand the structure, pat
 - **Yearly Trend** – Each year records a higher total transaction volume compared to the previous, confirming UPI adoption is consistently increasing.
 - **Correlation Analysis** – Strong positive correlation between the number of live banks, transaction count, and transaction value, indicating that wider bank integration  directly boosts UPI adoption.
 
-### _Exploring UPI, Card, and Cash Payment Trends_
+## _Exploring UPI, Card, and Cash Payment Trends_
 The dataset for this section has been extracted from the **Reserve Bank of India’s (RBI) Database on Indian Economy (DBIE)** under the **Payment and Settlement Systems section** [Website](https://bit.ly/45Pf2iU). It provides monthly and yearly statistics on transaction volumes and values across various payment modes, including UPI, Card, and Cash, covering the period from November 2019 to June 2025. Data cleaning and preparation were carried out in **Power Query**, which ensured both efficiency and simplicity in managing the dataset.
 
 ## **Dataset Overview**
@@ -105,6 +105,10 @@ The dataset for this section has been extracted from the **Reserve Bank of India
  **However, India cannot become fully cashless yet, as cash remains crucial for segments of the population with limited digital access.**
 
 **POWER BI**
+
+## 7.Forecasting using Time Series Models (ARIMA)
+### Jupyter File
+<iframe src="notebooks/ARIMA.html" width="100%" height="800px"></iframe>
 
 
   
