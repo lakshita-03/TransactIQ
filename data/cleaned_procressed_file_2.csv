@@ -1,4 +1,4 @@
-Months,Year,No. of Banks live on UPI,Volume of UPI transaction (In Cr.),Value of UPI transaction (In Cr.)
+Months,Year,No. of Banks live on UPI,Count of UPI transactions (In Mn),Total Amount of UPI transactions (In Mn)                              
 April,2016,21,0,0
 May,2016,21,0,0
 June,2016,21,0,0
