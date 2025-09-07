@@ -80,7 +80,7 @@ Exploratory Data Analysis (EDA) was carried out to understand the structure, pat
 - **Correlation Analysis** – Strong positive correlation between the number of live banks, transaction count, and transaction value, indicating that wider bank integration  directly boosts UPI adoption.
 
 ### _Exploring UPI, Card, and Cash Payment Trends_
-The dataset for this section has been extracted from the **Reserve Bank of India’s (RBI) Database on Indian Economy (DBIE)** under the **Payment and Settlement Systems section** [Website](https://bit.ly/45Pf2iU). It provides monthly and yearly statistics on transaction volumes and values across different modes of payment, UPI, Card, and Cash, covering the period **November 2019 to June 2025**. Data cleaning and preparation were carried out in **Power Query**, which ensured both efficiency and simplicity in managing the dataset.
+The dataset for this section has been extracted from the **Reserve Bank of India’s (RBI) Database on Indian Economy (DBIE)** under the **Payment and Settlement Systems section** [Website](https://bit.ly/45Pf2iU). It provides monthly and yearly statistics on transaction volumes and values across various payment modes, including UPI, Card, and Cash, covering the period from November 2019 to June 2025. Data cleaning and preparation were carried out in **Power Query**, which ensured both efficiency and simplicity in managing the dataset.
 
 ## **Dataset Overview**
 - UPI Transactions-Volume(Lakh)- Total count of UPI transactions
@@ -101,8 +101,12 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 **Key Insights from the comparison**
 - **During COVID-19 (2020–21)**: Digital adoption accelerated due to social distancing and contactless payments. UPI volumes saw a sharp rise, while cash usage declined and  card payments grew modestly.
 - **Post-COVID (2022 onwards)**: UPI continued to boom, becoming the dominant mode of payment, reflecting a structural shift in consumer behavior towards digital.
-- Cash usage has remained relatively stagnant/declining, but it still holds importance in rural and informal markets. Card payments show steady but slower growth, while UPI transactions grew exponentially, showing their role in driving India’s cashless economy.
+- Cash usage has remained relatively stagnant/declining, but it still holds importance in rural and informal markets. Card payments exhibit steady but slower growth, while UPI transactions have grown exponentially, underscoring their role in driving India’s cashless economy.
  **However, India cannot become fully cashless yet, as cash remains crucial for segments of the population with limited digital access.**
+
+**POWER BI**
+
+
   
 
 
