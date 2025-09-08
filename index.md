@@ -115,10 +115,10 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 Shift from Cash to Digital – Cash and card payments are being overshadowed by UPI, which emerged as India’s default mode of digital payments, accelerated by COVID-19.
 - **Seasonality & Events** – Spikes in UPI transactions align with festive periods (Diwali, year-end, March financial close), while dips reflect disruptions such as the 2020 lockdown.
 - **Forecasting Trends** – Forecasts (Prophet & ARIMA) suggest sustained growth till 2025, with recurring seasonal peaks and minor early-year dips.
-- **Business & Policy Impact** – Banks, fintechs, and merchants must gear up for rising volumes and align strategies with festive spikes. Policymakers can showcase UPI as a global digital payments model.
+- **Businesses and Financial Impact**- Businesses should align sales and marketing campaigns with high-transaction months (festive & year-end), leveraging UPI spikes for    customer engagement. Financial institutions can design innovative UPI-linked products (credit on UPI, loyalty rewards) to strengthen customer retention. **Government & policymakers** can use UPI to push deeper financial inclusion by reaching rural and underserved populations.
 - **Cashless Limitation** – Despite UPI’s dominance, a fully cashless India is not yet possible. In rural and underdeveloped areas, where digital infrastructure and literacy remain limited, cash continues to play a vital role.
 - **Final Takeaway**– UPI has revolutionized India’s digital economy, becoming the backbone of cashless transactions, while coexisting with cash in regions where digital reach is still evolving.
-- 
+ 
 [**Github Link**](https://github.com/lakshita-03/TransactIQ)
   
 
