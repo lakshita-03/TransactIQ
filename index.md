@@ -102,7 +102,8 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 - **Post-COVID (2022 onwards)**: UPI continued to boom, becoming the dominant mode of payment, reflecting a structural shift in consumer behavior towards digital.
 - Cash usage has remained relatively stagnant/declining, but it still holds importance in rural and informal markets. Card payments exhibit steady but slower growth, while UPI transactions have grown exponentially, underscoring their role in driving India’s cashless economy.
  **However, India cannot become fully cashless yet, as cash remains crucial for segments of the population with limited digital access.**
-<br>
+<br><br>
+
 ## 6. Interactive Visualizations & Dashboard
 <iframe title="correct" width="1000" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTg5MWJiZjgtMWIwYS00YTRmLTk4MDItNDU1MzVkOGEyZDY0IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
