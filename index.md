@@ -106,8 +106,8 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 
 ## 6. Interactive Visualizations & Dashboard
 <iframe title="correct" width="1000" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTg5MWJiZjgtMWIwYS00YTRmLTk4MDItNDU1MzVkOGEyZDY0IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 <br>
+
 ## 7. Forecasting using Time Series Models (ARIMA)
 
 ### Jupyter File
