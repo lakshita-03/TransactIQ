@@ -60,7 +60,7 @@ The dataset was cleaned and prepared using **Power Query**, as it provided an ef
 ## 5. Exploratory Data Analysis (EDA)
 Exploratory Data Analysis (EDA) was carried out to understand the structure, patterns, and key insights from the dataset. The objective of this stage was to examine trends, detect anomalies, and establish relationships between variables before proceeding to a deeper interpretation.
 
-### 1. **Dataset Overview**
+### **Dataset Overview**
 - Number of Banks live on UPI (monthly count of banks adopting UPI)
 - Count of UPI transactions (In Mn) –The number of transactions done through UPI (**Volume**)
 - Total Amount of UPI transactions (In Mn) – The total money involved in the transactions (**Value**)
@@ -103,7 +103,8 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 - Cash usage has remained relatively stagnant/declining, but it still holds importance in rural and informal markets. Card payments exhibit steady but slower growth, while UPI transactions have grown exponentially, underscoring their role in driving India’s cashless economy.
  **However, India cannot become fully cashless yet, as cash remains crucial for segments of the population with limited digital access.**
 
-**POWER BI**
+## 6. Interactive Visualizations & Dashboard
+<iframe title="correct" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTg5MWJiZjgtMWIwYS00YTRmLTk4MDItNDU1MzVkOGEyZDY0IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## 7. Forecasting using Time Series Models (ARIMA)
 
