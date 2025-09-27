@@ -79,7 +79,7 @@ Exploratory Data Analysis (EDA) was carried out to understand the structure, pat
 - **Correlation Analysis** – Strong positive correlation between the number of live banks, transaction count, and transaction value, indicating that wider bank integration  directly boosts UPI adoption.
 
 ## _Exploring UPI, Card, and Cash Payment Trends_
-The dataset for this section has been extracted from the **Reserve Bank of India’s (RBI) Database on Indian Economy (DBIE)** under the **Payment and Settlement Systems section** [Website](https://data.rbi.org.in/BOE/OpenDocument/2409211437/OpenDocument/opendoc/openDocument.jsp?logonSuccessful=true&shareId=3).It provides monthly and yearly statistics on transaction volumes and values across various payment modes, including UPI, Card, and Cash, covering the period from November 2019 to June 2025. Data cleaning and preparation were carried out using **Power Query**, ensuring both efficiency and simplicity in managing the dataset.
+The dataset for this section has been extracted from the **Reserve Bank of India’s (RBI) Database on Indian Economy (DBIE)** under the **Payment and Settlement Systems section** [Website](https://data.rbi.org.in/DBIE/#/dbie/reports/Statistics/Financial%20Sector/Payment%20Systems).It provides monthly and yearly statistics on transaction volumes and values across various payment modes, including UPI, Card, and Cash, covering the period from November 2019 to June 2025. Data cleaning and preparation were carried out using **Power Query**, ensuring both efficiency and simplicity in managing the dataset.
 
 ## **Dataset Overview**
 - UPI Transactions-Volume(Lakh)- Total count of UPI transactions
