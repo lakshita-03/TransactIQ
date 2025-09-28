@@ -115,7 +115,7 @@ The dataset for this section has been extracted from the **Reserve Bank of India
 
 
 ### Assumptions
-- To ensure the validity of the forecasting analysis, the following assumptions are made:
+To ensure the validity of the forecasting analysis, the following assumptions are made:
 - All banks consistently report UPI transaction data every month without delays or gaps.
 - No major regulatory or policy changes (e.g., RBI guidelines, taxation, new payment caps) significantly impact transaction trends during the forecast period.
 - Market and consumer behavior remain broadly stable, without unprecedented disruptions such as pandemics or sudden economic crises.
