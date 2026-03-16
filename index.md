@@ -13,7 +13,7 @@
   3. Data Collection & Merging
   4. Data Cleaning & Preprocessing
   5. Exploratory Data Analysis (EDA)           
-  6. [Visualization & Dashboards](<iframe title="correct" width="1000" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiNTg5MWJiZjgtMWIwYS00YTRmLTk4MDItNDU1MzVkOGEyZDY0IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9" frameborder="0" allowFullScreen="true"></iframe>)
+  6. [Visualization & Dashboards](https://app.powerbi.com/view?r=eyJrIjoiNTg5MWJiZjgtMWIwYS00YTRmLTk4MDItNDU1MzVkOGEyZDY0IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9)
   7. Forecasting using Time Series Model
   8. Conclusion
 
